@@ -7,5 +7,4 @@
     x.setAttribute("value", "65");
     document.body.appendChild(x);
   }
-)
-();
+).call(this);
