@@ -1,4 +1,4 @@
-javascript: (
+(
   function() {
     document.write("hi"); 
     var x = document.createElement("METER");
