@@ -5,5 +5,4 @@
     x.setAttribute("max", "100"); 
     x.setAttribute("value", "65");
     document.body.appendChild(x);
-  }
-)();
+  }());
